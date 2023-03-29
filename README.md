@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=80&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c24ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Daniel+Nicolau;Tenho+31+anos;Sou+de+Belo+Horizonte;Atualmente+sou+estudante+de+programação;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
@@ -30,5 +30,3 @@
 ### Desenvolvedor Front-End
 ### Design AR & 3D Artist
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=120&section=footer"/>
