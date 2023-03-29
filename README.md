@@ -23,4 +23,4 @@
   
 </div>
 
-![snake gif](https://github.com/daanrox/daanrox/blob/output/github-contribution-grid-snake.svg)
+![myGif](https://github.com/daanrox/daanrox/blob/output/github-contribution-grid-snake.svg)
