@@ -25,8 +25,6 @@
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daanrox&bg_color=0d1117&color=9c24ff&line=9c24ff&point=b13583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Desenvolvedor Front-End
 ### Design AR & 3D Artist
 
