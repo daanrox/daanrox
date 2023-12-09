@@ -19,6 +19,7 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="SparkAR" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sparkar-by-facebook.svg">
 </div>
 
 <!-- Seção de Projetos e Experiência -->
