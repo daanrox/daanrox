@@ -3,9 +3,12 @@
 
 <!-- Seção de Introdução e Habilidades -->
 ## Olá, eu sou o Daanrox! 👋
-- Desenvolvedor Front-End e Designer AR & 3D Artist 🚀
+- É assim que me conhecem na internet, meu nome real? *Daniel Nicolau*
+- Formado em Desenvolvimento Web FullStack na **Kenzie Academy Brasil**
+- Especialista em ajudar empresas a construir soluções digitais de alta qualidade.
 - Criador de filtros para o Instagram usando Meta Spark AR e JavaScript 📸
 - Experiência em modelagem 3D básica e desenvolvimento Fullstack 🎨💻
+- Desenvolvimento de aplicações utilizando as melhores práticas e tecnologias para criar produtos que sejam funcionais, intuitivos e visualmente atraentes. 
 
 <!-- Seção de Tecnologias -->
 ## Tecnologias que Domino
