@@ -1,5 +1,5 @@
 <!-- Seção de Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c24ff&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8ad0f2&height=80&section=header"/>
 
 <!-- Seção de Introdução e Habilidades -->
 ## Olá, eu sou o Daanrox! 👋
