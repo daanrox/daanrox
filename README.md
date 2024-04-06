@@ -28,7 +28,7 @@
 <!-- Seção de Projetos e Experiência -->
 ## Experiência e Projetos
 - 5 anos criando filtros para o Instagram, alcançando bilhões de impressões 🌟
-- Desenvolvimento Fullstack pela Kenzie Academy em 2024 🎓
+- Desenvolvimento Fullstack pela Kenzie Academy em 2023 🎓
 - Aplicações em React, Next.js, APIs REST com Django, Node.js, e Nest 🛠️
 - Microempreendedor focado em Efeitos de Realidade Aumentada no Instagram, páginas web e mobile responsivas 💼
 
