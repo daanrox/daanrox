@@ -5,6 +5,7 @@
 ## Olá, eu sou o Daanrox! 👋
 - É assim que me conhecem na internet, meu nome real? *Daniel Nicolau*
 - Formado em Desenvolvimento Web FullStack na **Kenzie Academy Brasil**
+- Estudante de Engenharia de Software na **Faculdade Pitágoras | Anhanguera**
 - Especialista em ajudar empresas a construir soluções digitais de alta qualidade.
 - Criador de filtros para o Instagram usando Meta Spark AR e JavaScript 📸
 - Experiência em modelagem 3D básica e desenvolvimento Fullstack 🎨💻
