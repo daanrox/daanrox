@@ -43,7 +43,7 @@
 
 ## Doação
 
-Para fazer uma doação em agradecimento pelo projeto! Acesse: [https://roxcheckout.shop](https://roxcheckout.shop)
+Para fazer uma doação em agradecimento por algum projeto! Acesse: [https://roxcheckout.shop](https://roxcheckout.shop)
 
 
 
