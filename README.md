@@ -41,6 +41,12 @@
   
 </div>
 
+## Doação
+
+Para fazer uma doação em agradecimento pelo projeto! Acesse: [https://roxcheckout.shop](https://roxcheckout.shop)
+
+
+
 <!-- Seção de Interesses Futuros -->
 ## Próximos Passos 🚀
 Atualmente, estudando React Native, Vue, Angular e planejando explorar PHP em 2024.
